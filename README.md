@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="MOTORSENSE_M200_LinkedIn_Day1_Collage.jpg" alt="MOTORSENSE M200 industrial motor health monitoring project" width="800">
+</p>
 # MOTORSENSE M200
 ### Industrial Motor Health Monitoring System
 
